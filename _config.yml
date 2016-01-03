@@ -1,6 +1,6 @@
 name: IoTYYJ
 favicon: null
-layout_spectrum: 0.7325220035854727
+layout_spectrum: 0.66741
 typography_spectrum: 0.4129045200534165
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#ffffff'
+    - '#a0d1ca'
+    - '#00999e'
+    - '#fea45e'
   brandStrength: 0.17768948059529066
   lightness: 0.01890383055433631
   saturation: 0.23348936019465327
